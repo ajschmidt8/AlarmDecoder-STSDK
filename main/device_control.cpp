@@ -24,6 +24,8 @@
 
 #include <string.h>
 #include <string>
+#include "ad2_utils.h"
+#include "ad2_settings.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/event_groups.h"
 #include "esp_wifi.h"

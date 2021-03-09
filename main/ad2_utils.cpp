@@ -35,6 +35,7 @@
 #include <lwip/netdb.h>
 #include "driver/uart.h"
 #include "esp_log.h"
+#include "ad2_settings.h"
 static const char *TAG = "AD2UTIL";
 
 // mbedtls

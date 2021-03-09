@@ -20,6 +20,8 @@
  *  limitations under the License.
  *
  */
+#include <vector>
+#include "alarmdecoder_api.h"
 #ifndef _AD2_UTILS_H
 #define _AD2_UTILS_H
 
